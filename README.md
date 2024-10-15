@@ -1,6 +1,6 @@
 <br clear="both">
 <!-- Header -->
-<h1 align="center">Hi <img src="https://github.com/NafTan1/NafTan1/tree/master/icons/Hi.gif" width="28px"/> This is Nafis</h1>
+<h1 align="center">Hi <img src="https://github.com/NafTan1/NafTan1/blob/master/icons/Hi.gif" width="28px"/> This is Nafis</h1>
 
 <!-- Profile views, Resume & Hits -->
 <h2 align="center">
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Backend Development**
 
-- 📫 You can reach out to me via <a href="mailto:tanbinnafis@gmail.com"> <img align="center" src="https://github.com/NafTan1/NafTan1/tree/master/icons/Contact.gif"  width="35"/>
+- 📫 You can reach out to me via <a href="mailto:tanbinnafis@gmail.com"> <img align="center" src="https://github.com/NafTan1/NafTan1/blob/master/icons/Contact.gif"  width="35"/>
  </a>
 
 ###
@@ -32,7 +32,7 @@
 <!-- Stats -->
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/NafTan1/NafTan1/tree/master/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/NafTan1/NafTan1/blob/master/icons/stats.gif"  width="32"/> Stats</h2></summary>
   
   <div align="center">
     
@@ -55,7 +55,7 @@
 <!-- Tools & Languages -->
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/NafTan1/NafTan1/tree/master/icons/techstack.gif"  width="29"/>Tools & Languages</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/NafTan1/NafTan1/blob/master/icons/techstack.gif"  width="29"/> Tools & Languages</h2></summary>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="27" alt="cplusplus logo"  />
   <img width="12" />
