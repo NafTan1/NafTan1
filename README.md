@@ -5,10 +5,9 @@
 <!-- Profile views, Resume & Hits -->
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=NafTan1&label=Profile%20views&color=b30754&style=flat" alt="naftan1" />
-<a href="https://drive.google.com/file/d/1xZc7Kv26TfcPcO9eLz_28ODwlkuFD1xK/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1kOKUbxCMZA13qX5mGY5lTAULvBQLcsnQ/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-b30754?style=flat-round&logo=google-drive" alt="Resume" style="height:20px;">
 </a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNafTan1&count_bg=%23B30754&title_bg=%23555555&icon=&icon_color=%23B30754&title=Hits&edge_flat=false"/></a>
 </h2>
 
 <!-- GIF -->
@@ -19,8 +18,6 @@
 ###
 
 <!-- About -->
-
-- 🌱 I’m currently learning **DJango**
 
 - 💬 Ask me about **Backend Development**
 
@@ -33,21 +30,10 @@
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/NafTan1/NafTan1/blob/master/icons/stats.gif"  width="32"/> Stats</h2></summary>
-  
-  <div align="center">
-    
-  <img src="https://github-readme-stats.vercel.app/api?username=NafTan1&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NafTan1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-
-  </div>
 
   <div align="center">
   <a href="https://leetcode.com/tanbinnafis">
   <img height="150" src="https://leetcard.jacoblin.cool/tanbinnafis?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/binarysolver/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Nafis Leetcode Stats"/>
-  </a>
-  <a href="https://www.codechef.com/users/fresh_toy_00">
-    <img height="200" src="https://codechef-readme-stats.onrender.com/fresh_toy_00" alt="Nafis Codechef Stats"/>
-  </a>
  </div>
  
 </details>
@@ -64,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="27" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="27" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="27" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="27" alt="html5 logo"  />
   <img width="12" />
@@ -116,10 +100,3 @@
 
 ###
 
-<!-- Snake Animation -->
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NafTan1/NafTan1/output/snake.svg" alt="Snake animation" />
-
-###
